@@ -1,1 +1,0 @@
-SELECT * FROM etudiant WHERE NOM = 'Gertrude'

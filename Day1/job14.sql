@@ -1,0 +1,1 @@
+SELECT * FROM etudiant WHERE 17 < age and age < 26 ORDER BY age;
